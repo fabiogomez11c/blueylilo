@@ -2,4 +2,4 @@ This is just an example of YOLOv5 training with custom dataset (pet names). The 
 
 The dataset for training is in the folder `blueylilo`. The folder contains both images and annotations.
 
-To train the model I used YOLOv5 tutorial from [this](https://docs.ultralytics.com/yolov5/train_custom_data/#local-logging) link. Also I checked the video tutorial in [this](https://www.youtube.com/watch?v=tFNJGim3FXw&t) link.
+To train the model I used YOLOv5 tutorial from [this](https://docs.ultralytics.com/yolov5/train_custom_data/#local-logging) link. Also I checked the video tutorial in [this](https://www.youtube.com/watch?v=tFNJGim3FXw&t) link. This is the repository of YOLOv5 [here](https://github.com/ultralytics/yolov5).
